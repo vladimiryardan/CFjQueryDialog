@@ -1,0 +1,9 @@
+/*
+Cascading Style Sheets, level 2 revision 1. 
+CSS 2.1 Specification is available at 
+http://www.w3.org/TR/2006/WD-CSS21-20061106/
+*/
+
+.hidden{
+	display:none;
+}
